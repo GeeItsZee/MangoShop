@@ -1,0 +1,5 @@
+name: MangoShop
+main: com.gmail.tracebachi.MangoShop.MangoShop
+version: ${project.version}
+author: Trace Bachi (tracebachi@gmail.com, BigBossZee)
+commands: {}
